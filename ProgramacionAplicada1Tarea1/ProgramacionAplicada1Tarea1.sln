@@ -7,6 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramacionAplicada1Tarea1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capitulo1", "Capitulo1", "{05303624-5297-4710-9C4F-DEC2B7FE858B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capitulo2", "Capitulo2", "{D816351F-64AF-4466-A360-55C4D7CECBF8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Capitulo2Ejercicios\CalcularPerimetro.cs = ..\..\Capitulo2Ejercicios\CalcularPerimetro.cs
+		..\..\DolaresaEurosyViceversa\DolaresaEurosyViceversa\ConvertorEuroDolar.cs = ..\..\DolaresaEurosyViceversa\DolaresaEurosyViceversa\ConvertorEuroDolar.cs
+		..\..\GradoaRadianesConvertor\ConvertorGradoRadianes\GradosRadianes.cs = ..\..\GradoaRadianesConvertor\ConvertorGradoRadianes\GradosRadianes.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
